@@ -3,55 +3,63 @@
     {
     "cardName": "★ Bang Chan",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
     
     "LKCS1": [
     {
     "cardName": "★ Lee Know",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "CBCS1": [
     {     
     "cardName": "★ Changbin",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "HJCS1": [
     {
     "cardName": "★ Hyunjin",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "HACS1": [
     {
     "cardName": "★ Han",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "FLCS1": [
     {
     "cardName": "★ Felix",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "SMCS1": [
     {
     "cardName": "★ Seungmin",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "INCS1": [
     {
     "cardName": "★ I.N",
     "cardEra": "CASE 143",    
-    "cardGroup": "STRAY KIDS"
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
     } ]
 }

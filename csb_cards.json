@@ -1,57 +1,57 @@
 { 
-    "BCCS1": 
+    "BCCS1": [
     {
     "cardName": "★ Bang Chan",
     "cardEra": "CASE 143",
     "cardGroup": "STRAY KIDS",
-    },
+    } ],
 
-    "LKCS1": 
+    "LKCS1": [
     {
     "cardName": "★ Lee Know",
     "cardEra": "CASE 143",
     "cardGroup": "STRAY KIDS",
-    },
+    } ],
 
-    "CBCS1": 
+    "CBCS1": [
     {     
     "cardName": "★ Changbin",
     "cardEra": "CASE 143",
     "cardGroup": "STRAY KIDS",
-    },
+    } ],
 
-    "HJCS1": 
+    "HJCS1": [
     {
     "cardName": "★ Hyunjin",
     "cardEra": "CASE 143",
     "cardGroup": "STRAY KIDS",
-    },
+    } ],
 
-    "HACS1": 
+    "HACS1": [
     {
     "cardName": "★ Han",
     "cardEra": "CASE 143",
     "cardGroup": "STRAY KIDS",
-    },
+    } ],
 
-    "FLCS1": 
+    "FLCS1": [
     {
     "cardName": "★ Felix",
     "cardEra": "CASE 143",
     "cardGroup": "STRAY KIDS",
-    },
+    } ],
 
-    "SMCS1": 
+    "SMCS1": [
     {
     "cardName": "★ Seungmin",
     "cardEra": "CASE 143",
     "cardGroup": "STRAY KIDS",
-    },
+    } ],
 
-    "INCS1": 
+    "INCS1": [
     {
     "cardName": "★ I.N",
     "cardEra": "CASE 143",    
     "cardGroup": "STRAY KIDS",
-    },
+    } ]
 }

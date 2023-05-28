@@ -61,5 +61,69 @@
     "cardEra": "CASE 143",    
     "cardGroup": "STRAY KIDS",
     "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "HJGR1": [
+    {
+    "cardName": "★ Hongjoong",
+    "cardEra": "Guerrilla",
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+    
+    "SHGR1": [
+    {
+    "cardName": "★ Seonghwa",    
+    "cardEra": "Guerrilla",
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "YHGR1": [
+    {     
+    "cardName": "★ Yunho",    
+    "cardEra": "Guerrilla",
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "YSGR1": [
+    {
+    "cardName": "★ Yeosang",    
+    "cardEra": "Guerrilla",
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "SAGR1": [
+    {
+    "cardName": "★ San",    
+    "cardEra": "Guerrilla",
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "MGGR1": [
+    {
+    "cardName": "★ Mingi",    
+    "cardEra": "Guerrilla",
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "WYGR1": [
+    {
+    "cardName": "★ Wooyoung",    
+    "cardEra": "Guerrilla",
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "JHGR1": [
+    {
+    "cardName": "★ Jongho",    
+    "cardEra": "Guerrilla",
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
     } ]
 }

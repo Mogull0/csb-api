@@ -577,6 +577,62 @@
         "cardEra": "Yet To Come",
         "cardGroup": "BTS"
     }
+],
+
+"JWLM1": [
+    {
+        "cardName": "★ Jungwon",
+        "cardEra": "Let Me In (20 Cube)",
+        "cardGroup": "ENHYPEN"
+    }
+],
+
+"HSLM1": [
+    {
+        "cardName": "★ Heeseung",
+        "cardEra": "Let Me In (20 Cube)",
+        "cardGroup": "ENHYPEN"
+    }
+],
+
+"JYLM1": [
+    {
+        "cardName": "★ Jay",
+        "cardEra": "Let Me In (20 Cube)",
+        "cardGroup": "ENHYPEN"
+    }
+],
+
+"JKLM1": [
+    {
+        "cardName": "★ Jake",
+        "cardEra": "Let Me In (20 Cube)",
+        "cardGroup": "ENHYPEN"
+    }
+],
+
+"SHLM1": [
+    {
+        "cardName": "★ Sunghoon",
+        "cardEra": "Let Me In (20 Cube)",
+        "cardGroup": "ENHYPEN"
+    }
+],
+
+"SOLM1": [
+    {
+        "cardName": "★ Sunoo",
+        "cardEra": "Let Me In (20 Cube)",
+        "cardGroup": "ENHYPEN"
+    }
+],
+
+"NKLM1": [
+    {
+        "cardName": "★ Ni-ki",
+        "cardEra": "Let Me In (20 Cube)",
+        "cardGroup": "ENHYPEN"
+    }
 ]
 
 }

@@ -385,6 +385,142 @@
         "cardEra": "Attention",
         "cardGroup": "NEWJEANS"
     }
+],
+
+"HSJJ1": [
+    {
+        "cardName": "★ Choi Hyunsuk",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"JHJJ1": [
+    {
+        "cardName": "★ Jihoon",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"YSJJ1": [
+    {
+        "cardName": "★ Yoshi",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"JKJJ1": [
+    {
+        "cardName": "★ Junkyu",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"MSJJ1": [
+    {
+        "cardName": "★ Mashiho",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"JAJJ1": [
+    {
+        "cardName": "★ Yoon Jaehyuk",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"ASJJ1": [
+    {
+        "cardName": "★ Asahi",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"YDJJ1": [
+    {
+        "cardName": "★ Bang Yedam",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"DYJJ1": [
+    {
+        "cardName": "★ Doyoung",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"HRJJ1": [
+    {
+        "cardName": "★ Haruto",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"JWJJ1": [
+    {
+        "cardName": "★ Park Jeongwoo",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"JUJJ1": [
+    {
+        "cardName": "★ So Junghwan",
+        "cardEra": "JIKJIN",
+        "cardGroup": "TREASURE"
+    }
+],
+
+"IRUU1": [
+    {
+        "cardName": "★ Irene",
+        "cardEra": "Umpah Umpah",
+        "cardGroup": "RED VELVET"
+    }
+],
+
+"SGUU1": [
+    {
+        "cardName": "★ Seulgi",
+        "cardEra": "Umpah Umpah",
+        "cardGroup": "RED VELVET"
+    }
+],
+
+"WDUU1": [
+    {
+        "cardName": "★ Wendy",
+        "cardEra": "Umpah Umpah",
+        "cardGroup": "RED VELVET"
+    }
+],
+
+"JOUU1": [
+    {
+        "cardName": "★ Joy",
+        "cardEra": "Umpah Umpah",
+        "cardGroup": "RED VELVET"
+    }
+],
+
+"YRUU1": [
+    {
+        "cardName": "★ Yeri",
+        "cardEra": "Umpah Umpah",
+        "cardGroup": "RED VELVET"
+    }
 ]
 
 }

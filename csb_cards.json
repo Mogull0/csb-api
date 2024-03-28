@@ -521,6 +521,62 @@
         "cardEra": "Umpah Umpah",
         "cardGroup": "RED VELVET"
     }
+],
+
+"RMYT1": [
+    {
+        "cardName": "★ RM",
+        "cardEra": "Yet To Come",
+        "cardGroup": "BTS"
+    }
+],
+
+"JIYT1": [
+    {
+        "cardName": "★ Jin",
+        "cardEra": "Yet To Come",
+        "cardGroup": "BTS"
+    }
+],
+
+"SGYT1": [
+    {
+        "cardName": "★ Suga",
+        "cardEra": "Yet To Come",
+        "cardGroup": "BTS"
+    }
+],
+
+"JHYT1": [
+    {
+        "cardName": "★ J-Hope",
+        "cardEra": "Yet To Come",
+        "cardGroup": "BTS"
+    }
+],
+
+"JMYT1": [
+    {
+        "cardName": "★ Jimin",
+        "cardEra": "Yet To Come",
+        "cardGroup": "BTS"
+    }
+],
+
+"THYT1": [
+    {
+        "cardName": "★ V",
+        "cardEra": "Yet To Come",
+        "cardGroup": "BTS"
+    }
+],
+
+"JKYT1": [
+    {
+        "cardName": "★ Jungkook",
+        "cardEra": "Yet To Come",
+        "cardGroup": "BTS"
+    }
 ]
 
 }

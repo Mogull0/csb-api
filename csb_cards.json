@@ -385,6 +385,46 @@
         "cardEra": "Attention",
         "cardGroup": "NEWJEANS"
     }
+],
+
+"IRUU1": [
+    {
+        "cardName": "★ Irene",
+        "cardEra": "Umpah Umpah",
+        "cardGroup": "RED VELVET"
+    }
+],
+
+"SGUU1": [
+    {
+        "cardName": "★ Seulgi",
+        "cardEra": "Umpah Umpah",
+        "cardGroup": "RED VELVET"
+    }
+],
+
+"WDUU1": [
+    {
+        "cardName": "★ Wendy",
+        "cardEra": "Umpah Umpah",
+        "cardGroup": "RED VELVET"
+    }
+],
+
+"JOUU1": [
+    {
+        "cardName": "★ Joy",
+        "cardEra": "Umpah Umpah",
+        "cardGroup": "RED VELVET"
+    }
+],
+
+"YRUU1": [
+    {
+        "cardName": "★ Yeri",
+        "cardEra": "Umpah Umpah",
+        "cardGroup": "RED VELVET"
+    }
 ]
 
 }

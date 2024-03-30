@@ -17,12 +17,11 @@
     "cardGroup": "STRAY KIDS"
     },
 
-    "HJCS1": [
-    {
+    "HJCS1": {
     "cardName": "★ Hyunjin",
     "cardEra": "CASE 143",
     "cardGroup": "STRAY KIDS"
-    } ],
+    },
 
     "HACS1": {
     "cardName": "★ Han",
@@ -60,7 +59,7 @@
     "cardGroup": "ATEEZ"
     },
 
-    "YHGR1":  
+    "YHGR1":  {
     "cardName": "★ Yunho",    
     "cardEra": "Guerrilla",
     "cardGroup": "ATEEZ"
@@ -107,7 +106,7 @@
     "cardGroup": "NCT 2021"
     },
 
-    "JOBF1":  
+    "JOBF1": { 
     "cardName": "★ Johnny",
     "cardEra": "Beautiful",
     "cardGroup": "NCT 2021"
@@ -155,7 +154,7 @@
     "cardGroup": "NCT 2021"
     },
 
-    "XJBF1":  
+    "XJBF1":  {
     "cardName": "★ Xiaojun",
     "cardEra": "Beautiful",
     "cardGroup": "NCT 2021"
@@ -197,7 +196,7 @@
     "cardGroup": "NCT 2021"
     },
 
-    "STBF1":  
+    "STBF1":  {
     "cardName": "★ Shotaro",
     "cardEra": "Beautiful",
     "cardGroup": "NCT 2021"
@@ -222,464 +221,463 @@
     },
 
     "SCHI1": {
-        "cardName": "★ S.Coups",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ S.Coups",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "JHHI1": {
-        "cardName": "★ Jeonghan",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ Jeonghan",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "JOHI1": {
-        "cardName": "★ Joshua",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ Joshua",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "JUHI1": {
-        "cardName": "★ Jun",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ Jun",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "HSHI1": {
-        "cardName": "★ Hoshi",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ Hoshi",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "WWHI1": {
-        "cardName": "★ Wonwoo",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ Wonwoo",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
-    
+
     "WZHI1": {
-        "cardName": "★ Woozi",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ Woozi",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "T8HI1": {
-        "cardName": "★ The8",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ The8",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "MGCS1": {
-        "cardName": "★ Mingyu",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ Mingyu",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "DKCS1": {
-        "cardName": "★ DK",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ DK",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "SKCS1": {
-        "cardName": "★ Seungkwan",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ Seungkwan",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "VNCS1": {
-        "cardName": "★ Vernon",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ Vernon",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "DNCS1": {
-        "cardName": "★ Dino",
-        "cardEra": "HIT",
-        "cardGroup": "SEVENTEEN"
+    "cardName": "★ Dino",
+    "cardEra": "HIT",
+    "cardGroup": "SEVENTEEN"
     },
 
     "MJAT1": {
-        "cardName": "★ Minji",
-        "cardEra": "Attention",
-        "cardGroup": "NEWJEANS"
+    "cardName": "★ Minji",
+    "cardEra": "Attention",
+    "cardGroup": "NEWJEANS"
     },
 
     "HNAT1": {
-        "cardName": "★ Hanni",
-        "cardEra": "Attention",
-        "cardGroup": "NEWJEANS"
+    "cardName": "★ Hanni",
+    "cardEra": "Attention",
+    "cardGroup": "NEWJEANS"
     },
 
     "DNAT1": {
-        "cardName": "★ Danielle",
-        "cardEra": "Attention",
-        "cardGroup": "NEWJEANS"
+    "cardName": "★ Danielle",
+    "cardEra": "Attention",
+    "cardGroup": "NEWJEANS"
     },
 
     "HRAT1": {
-        "cardName": "★ Haerin",
-        "cardEra": "Attention",
-        "cardGroup": "NEWJEANS"
+    "cardName": "★ Haerin",
+    "cardEra": "Attention",
+    "cardGroup": "NEWJEANS"
     },
 
     "HIAT1": {
-        "cardName": "★ Hyein",
-        "cardEra": "Attention",
-        "cardGroup": "NEWJEANS"
+    "cardName": "★ Hyein",
+    "cardEra": "Attention",
+    "cardGroup": "NEWJEANS"
     },
 
     "HSJJ1": {
-        "cardName": "★ Choi Hyunsuk",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ Choi Hyunsuk",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 
     "JHJJ1": {
-        "cardName": "★ Jihoon",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ Jihoon",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 
     "YSJJ1": {
-        "cardName": "★ Yoshi",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ Yoshi",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 
     "JKJJ1": {
-        "cardName": "★ Junkyu",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ Junkyu",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 
     "MSJJ1": {
-        "cardName": "★ Mashiho",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ Mashiho",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 
     "JAJJ1": {
-        "cardName": "★ Yoon Jaehyuk",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ Yoon Jaehyuk",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 
     "ASJJ1": {
-        "cardName": "★ Asahi",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ Asahi",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 
     "YDJJ1": {
-        "cardName": "★ Bang Yedam",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ Bang Yedam",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 
     "DYJJ1": {
-        "cardName": "★ Doyoung",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ Doyoung",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 
     "HRJJ1": {
-        "cardName": "★ Haruto",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ Haruto",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 
     "JWJJ1": {
-        "cardName": "★ Park Jeongwoo",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ Park Jeongwoo",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 
     "JUJJ1": {
-        "cardName": "★ So Junghwan",
-        "cardEra": "JIKJIN",
-        "cardGroup": "TREASURE"
+    "cardName": "★ So Junghwan",
+    "cardEra": "JIKJIN",
+    "cardGroup": "TREASURE"
     },
 "IRUU1": {
-        "cardName": "★ Irene",
-        "cardEra": "Umpah Umpah",
-        "cardGroup": "RED VELVET"
+    "cardName": "★ Irene",
+    "cardEra": "Umpah Umpah",
+    "cardGroup": "RED VELVET"
     },
 
 "SGUU1": {
-        "cardName": "★ Seulgi",
-        "cardEra": "Umpah Umpah",
-        "cardGroup": "RED VELVET"
+    "cardName": "★ Seulgi",
+    "cardEra": "Umpah Umpah",
+    "cardGroup": "RED VELVET"
     },
 
 "WDUU1": {
-        "cardName": "★ Wendy",
-        "cardEra": "Umpah Umpah",
-        "cardGroup": "RED VELVET"
+    "cardName": "★ Wendy",
+    "cardEra": "Umpah Umpah",
+    "cardGroup": "RED VELVET"
     },
 
 "JOUU1": {
-        "cardName": "★ Joy",
-        "cardEra": "Umpah Umpah",
-        "cardGroup": "RED VELVET"
+    "cardName": "★ Joy",
+    "cardEra": "Umpah Umpah",
+    "cardGroup": "RED VELVET"
     },
 
 "YRUU1": {
-        "cardName": "★ Yeri",
-        "cardEra": "Umpah Umpah",
-        "cardGroup": "RED VELVET"
+    "cardName": "★ Yeri",
+    "cardEra": "Umpah Umpah",
+    "cardGroup": "RED VELVET"
     },
 
 "RMYT1": {
-        "cardName": "★ RM",
-        "cardEra": "Yet To Come",
-        "cardGroup": "BTS"
+    "cardName": "★ RM",
+    "cardEra": "Yet To Come",
+    "cardGroup": "BTS"
     },
 
 "JIYT1": {
-        "cardName": "★ Jin",
-        "cardEra": "Yet To Come",
-        "cardGroup": "BTS"
+    "cardName": "★ Jin",
+    "cardEra": "Yet To Come",
+    "cardGroup": "BTS"
     },
 
 "SGYT1": {
-        "cardName": "★ Suga",
-        "cardEra": "Yet To Come",
-        "cardGroup": "BTS"
+    "cardName": "★ Suga",
+    "cardEra": "Yet To Come",
+    "cardGroup": "BTS"
     },
 
 "JHYT1": {
-        "cardName": "★ J-Hope",
-        "cardEra": "Yet To Come",
-        "cardGroup": "BTS"
+    "cardName": "★ J-Hope",
+    "cardEra": "Yet To Come",
+    "cardGroup": "BTS"
     },
 
 "JMYT1": {
-        "cardName": "★ Jimin",
-        "cardEra": "Yet To Come",
-        "cardGroup": "BTS"
+    "cardName": "★ Jimin",
+    "cardEra": "Yet To Come",
+    "cardGroup": "BTS"
     },
 
 "THYT1": {
-        "cardName": "★ V",
-        "cardEra": "Yet To Come",
-        "cardGroup": "BTS"
+    "cardName": "★ V",
+    "cardEra": "Yet To Come",
+    "cardGroup": "BTS"
     },
 
 "JKYT1": {
-        "cardName": "★ Jungkook",
-        "cardEra": "Yet To Come",
-        "cardGroup": "BTS"
+    "cardName": "★ Jungkook",
+    "cardEra": "Yet To Come",
+    "cardGroup": "BTS"
     },
 
 "JWLM1": {
-        "cardName": "★ Jungwon",
-        "cardEra": "Let Me In (20 Cube)",
-        "cardGroup": "ENHYPEN"
+    "cardName": "★ Jungwon",
+    "cardEra": "Let Me In (20 Cube)",
+    "cardGroup": "ENHYPEN"
     },
 
 "HSLM1": {
-        "cardName": "★ Heeseung",
-        "cardEra": "Let Me In (20 Cube)",
-        "cardGroup": "ENHYPEN"
+    "cardName": "★ Heeseung",
+    "cardEra": "Let Me In (20 Cube)",
+    "cardGroup": "ENHYPEN"
     },
 
 "JYLM1": {
-        "cardName": "★ Jay",
-        "cardEra": "Let Me In (20 Cube)",
-        "cardGroup": "ENHYPEN"
+    "cardName": "★ Jay",
+    "cardEra": "Let Me In (20 Cube)",
+    "cardGroup": "ENHYPEN"
     },
 
 "JKLM1": {
-        "cardName": "★ Jake",
-        "cardEra": "Let Me In (20 Cube)",
-        "cardGroup": "ENHYPEN"
+    "cardName": "★ Jake",
+    "cardEra": "Let Me In (20 Cube)",
+    "cardGroup": "ENHYPEN"
     },
 
 "SHLM1": {
-        "cardName": "★ Sunghoon",
-        "cardEra": "Let Me In (20 Cube)",
-        "cardGroup": "ENHYPEN"
+    "cardName": "★ Sunghoon",
+    "cardEra": "Let Me In (20 Cube)",
+    "cardGroup": "ENHYPEN"
     },
 
 "SOLM1": {
-        "cardName": "★ Sunoo",
-        "cardEra": "Let Me In (20 Cube)",
-        "cardGroup": "ENHYPEN"
+    "cardName": "★ Sunoo",
+    "cardEra": "Let Me In (20 Cube)",
+    "cardGroup": "ENHYPEN"
     },
 
 "NKLM1": {
-        "cardName": "★ Ni-ki",
-        "cardEra": "Let Me In (20 Cube)",
-        "cardGroup": "ENHYPEN"
+    "cardName": "★ Ni-ki",
+    "cardEra": "Let Me In (20 Cube)",
+    "cardGroup": "ENHYPEN"
     },
 
 "SYNA1": {
-        "cardName": "★ Sangyeon",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ Sangyeon",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "JCNA1": {
-        "cardName": "★ Jacob",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ Jacob",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "YHNA1": {
-        "cardName": "★ Younghoon",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ Younghoon",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "HJNA1": {
-        "cardName": "★ Hyunjae",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ Hyunjae",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "JYNA1": {
-        "cardName": "★ Juyeon",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ Juyeon",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "KVNA1": {
-        "cardName": "★ Kevin",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ Kevin",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "NWNA1": {
-        "cardName": "★ New",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ New",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "CMNA1": {
-        "cardName": "★ Q",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ Q",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "JHNA1": {
-        "cardName": "★ Ju Haknyeon",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ Ju Haknyeon",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "HHNA1": {
-        "cardName": "★ Hwall",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ Hwall",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "SWNA1": {
-        "cardName": "★ Sunwoo",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ Sunwoo",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "ERNA1": {
-        "cardName": "★ Eric",
-        "cardEra": "No Air",
-        "cardGroup": "THE BOYZ"
+    "cardName": "★ Eric",
+    "cardEra": "No Air",
+    "cardGroup": "THE BOYZ"
     },
 
 "DYDD1": {
-        "cardName": "★ Daeyeol",
-        "cardEra": "Ddara",
-        "cardGroup": "GOLDEN CHILD"
+    "cardName": "★ Daeyeol",
+    "cardEra": "Ddara",
+    "cardGroup": "GOLDEN CHILD"
     },
 
 "SYDD1": {
-        "cardName": "★ Y",
-        "cardEra": "Ddara",
-        "cardGroup": "GOLDEN CHILD"
+    "cardName": "★ Y",
+    "cardEra": "Ddara",
+    "cardGroup": "GOLDEN CHILD"
     },
 
 "JJDD1": {
-        "cardName": "★ Jangjun",
-        "cardEra": "Ddara",
-        "cardGroup": "GOLDEN CHILD"
+    "cardName": "★ Jangjun",
+    "cardEra": "Ddara",
+    "cardGroup": "GOLDEN CHILD"
     },
 
 "TGDD1": {
-        "cardName": "★ TAG",
-        "cardEra": "Ddara",
-        "cardGroup": "GOLDEN CHILD"
+    "cardName": "★ TAG",
+    "cardEra": "Ddara",
+    "cardGroup": "GOLDEN CHILD"
     },
 
 "SMDD1": {
-        "cardName": "★ Seungmin",
-        "cardEra": "Ddara",
-        "cardGroup": "GOLDEN CHILD"
+    "cardName": "★ Seungmin",
+    "cardEra": "Ddara",
+    "cardGroup": "GOLDEN CHILD"
     },
 
 "JHDD1": {
-        "cardName": "★ Jaehyun",
-        "cardEra": "Ddara",
-        "cardGroup": "GOLDEN CHILD"
+    "cardName": "★ Jaehyun",
+    "cardEra": "Ddara",
+    "cardGroup": "GOLDEN CHILD"
     },
 
 "JBDD1": {
-        "cardName": "★ Jibeom",
-        "cardEra": "Ddara",
-        "cardGroup": "GOLDEN CHILD"
+    "cardName": "★ Jibeom",
+    "cardEra": "Ddara",
+    "cardGroup": "GOLDEN CHILD"
     },
 
 "DHDD1": {
-        "cardName": "★ Donghyun",
-        "cardEra": "Ddara",
-        "cardGroup": "GOLDEN CHILD"
+    "cardName": "★ Donghyun",
+    "cardEra": "Ddara",
+    "cardGroup": "GOLDEN CHILD"
     },
 
 "JCDD1": {
-        "cardName": "★ Joochan",
-        "cardEra": "Ddara",
-        "cardGroup": "GOLDEN CHILD"
+    "cardName": "★ Joochan",
+    "cardEra": "Ddara",
+    "cardGroup": "GOLDEN CHILD"
     },
 
 "BMDD1": {
-        "cardName": "★ Bomin",
-        "cardEra": "Ddara",
-        "cardGroup": "GOLDEN CHILD"
+    "cardName": "★ Bomin",
+    "cardEra": "Ddara",
+    "cardGroup": "GOLDEN CHILD"
     },
 
 "RVBM1": {
-        "cardName": "★ RAVN",
-        "cardEra": "Black Mirror",
-        "cardGroup": "ONEUS"
+    "cardName": "★ RAVN",
+    "cardEra": "Black Mirror",
+    "cardGroup": "ONEUS"
     },
 
 "SHBM1": {
-        "cardName": "★ Seoho",
-        "cardEra": "Black Mirror",
-        "cardGroup": "ONEUS"
+    "cardName": "★ Seoho",
+    "cardEra": "Black Mirror",
+    "cardGroup": "ONEUS"
     },
 
 "LDBM1": {
-        "cardName": "★ Leedo",
-        "cardEra": "Black Mirror",
-        "cardGroup": "ONEUS"
+    "cardName": "★ Leedo",
+    "cardEra": "Black Mirror",
+    "cardGroup": "ONEUS"
     },
 
 "HWBM1": {
-        "cardName": "★ Hwanwoong",
-        "cardEra": "Black Mirror",
-        "cardGroup": "ONEUS"
+    "cardName": "★ Hwanwoong",
+    "cardEra": "Black Mirror",
+    "cardGroup": "ONEUS"
     },
 
 "KHBM1": {
-        "cardName": "★ Keonhee",
-        "cardEra": "Black Mirror",
-        "cardGroup": "ONEUS"
+    "cardName": "★ Keonhee",
+    "cardEra": "Black Mirror",
+    "cardGroup": "ONEUS"
     },
 
 "XOBM1": {
-        "cardName": "★ Xion",
-        "cardEra": "Black Mirror",
-        "cardGroup": "ONEUS"
+    "cardName": "★ Xion",
+    "cardEra": "Black Mirror",
+    "cardGroup": "ONEUS"
     }
-
 }

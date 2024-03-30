@@ -1,97 +1,415 @@
 { 
-    "BCCS1": [{
+    "BCCS1": [
+    {
     "cardName": "★ Bang Chan",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
-    }],
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
     
-    "LKCS1": [{
+    "LKCS1": [
+    {
     "cardName": "★ Lee Know",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
-    }],
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "CBCS1": [{     
+    "CBCS1": [
+    {     
     "cardName": "★ Changbin",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
-    }],
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "HJCS1": [{
+    "HJCS1": [
+    {
     "cardName": "★ Hyunjin",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
-    }],
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "HACS1": [{
+    "HACS1": [
+    {
     "cardName": "★ Han",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
-    }],
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "FLCS1": [{
+    "FLCS1": [
+    {
     "cardName": "★ Felix",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
-    }],
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "SMCS1": [{
+    "SMCS1": [
+    {
     "cardName": "★ Seungmin",
     "cardEra": "CASE 143",
-    "cardGroup": "STRAY KIDS"
-    }],
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "INCS1": [{
+    "INCS1": [
+    {
     "cardName": "★ I.N",
     "cardEra": "CASE 143",    
-    "cardGroup": "STRAY KIDS"
-    }],
+    "cardGroup": "STRAY KIDS",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "HJGR1": [{
+    "HJGR1": [
+    {
     "cardName": "★ Hongjoong",
     "cardEra": "Guerrilla",
-    "cardGroup": "ATEEZ"
-    }],
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
     
-    "SHGR1": [{
+    "SHGR1": [
+    {
     "cardName": "★ Seonghwa",    
     "cardEra": "Guerrilla",
-    "cardGroup": "ATEEZ"
-    }],
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "YHGR1":  [{
+    "YHGR1": [
+    {     
     "cardName": "★ Yunho",    
     "cardEra": "Guerrilla",
-    "cardGroup": "ATEEZ"
-    }],
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "YSGR1": [{
+    "YSGR1": [
+    {
     "cardName": "★ Yeosang",    
     "cardEra": "Guerrilla",
-    "cardGroup": "ATEEZ"
-    }],
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "SAGR1": [{
+    "SAGR1": [
+    {
     "cardName": "★ San",    
     "cardEra": "Guerrilla",
-    "cardGroup": "ATEEZ"
-    }],
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>",
+    "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025394996003741746/Untitled18_20220930205519.png"
+    } ],
 
-    "MGGR1": [{
+    "MGGR1": [
+    {
     "cardName": "★ Mingi",    
     "cardEra": "Guerrilla",
-    "cardGroup": "ATEEZ"
-    }],
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "WYGR1": [{
+    "WYGR1": [
+    {
     "cardName": "★ Wooyoung",    
     "cardEra": "Guerrilla",
-    "cardGroup": "ATEEZ"
-    }],
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
 
-    "JHGR1": [{
+    "JHGR1": [
+    {
     "cardName": "★ Jongho",    
     "cardEra": "Guerrilla",
-    "cardGroup": "ATEEZ"
-    }]
+    "cardGroup": "ATEEZ",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+    "TYBF1": [
+    {
+    "cardName": "★ Taeyong",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+    
+    "TIBF1": [
+    {
+    "cardName": "★ Taeil",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "JOBF1": [
+    {     
+    "cardName": "★ Johnny",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "YTBF1": [
+    {
+    "cardName": "★ Yuta",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "KNBF1": [
+    {
+    "cardName": "★ Kun",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "DYBF1": [
+    {
+    "cardName": "★ Doyoung",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "TNBF1": [
+    {
+    "cardName": "★ Ten",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "JHBF1": [
+    {
+    "cardName": "★ Jaehyun",
+    "cardEra": "Beautiful",    
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "JWBF1": [
+    {
+    "cardName": "★ Jungwoo",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+    
+    "MKBF1": [
+    {
+    "cardName": "★ Mark",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "XJBF1": [
+    {     
+    "cardName": "★ Xiaojun",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "HDBF1": [
+    {
+    "cardName": "★ Hendery",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "RJBF1": [
+    {
+    "cardName": "★ Renjun",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "JNBF1": [
+    {
+    "cardName": "★ Jeno",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "HCBF1": [
+    {
+    "cardName": "★ Haechan",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "JMBF1": [
+    {
+    "cardName": "★ Jaemin",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+    
+    "YYBF1": [
+    {
+    "cardName": "★ Yanyang",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "STBF1": [
+    {     
+    "cardName": "★ Shotaro",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "SCBF1": [
+    {
+    "cardName": "★ Sungchan",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "CLBF1": [
+    {
+    "cardName": "★ Chenle",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "JSBF1": [
+    {
+    "cardName": "★ Jisung",
+    "cardEra": "Beautiful",
+    "cardGroup": "NCT 2021",
+    "cardTag": "<:emoji_10:1112000273557241866>"
+    } ],
+
+    "SCHI1": [
+    {
+        "cardName": "★ S.Coups",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416116417339442/Untitled18_20220930223224.png"
+    } ],
+
+    "JHHI1": [
+    {
+        "cardName": "★ Jeonghan",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416116765474846/Untitled18_20220930223237.png"
+    } ],
+
+    "JOHI1": [
+    {
+        "cardName": "★ Joshua",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416117239418960/Untitled18_20220930223248.png"
+    } ],
+
+    "JUHI1": [
+    {
+        "cardName": "★ Jun",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416117667246142/Untitled18_20220930223257.png"
+    } ],
+
+    "HSHI1": [
+    {
+        "cardName": "★ Hoshi",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416150819020971/Untitled18_20220930223306.png"
+    } ],
+
+    "WWHI1": [
+    {
+        "cardName": "★ Wonwoo",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416151238443018/Untitled18_20220930223316.png"
+    } ],
+
+    "WZHI1": [
+    {
+        "cardName": "★ Woozi",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416151691440168/Untitled18_20220930223325.png"
+    } ],
+
+    "T8HI1": [
+    {
+        "cardName": "★ The8",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416180229480551/Untitled18_20220930223335.png"
+    } ],
+
+    "MGCS1": [
+    {
+        "cardName": "★ Mingyu",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416180737003603/Untitled18_20220930223343.png"
+    } ],
+
+    "DKCS1": [
+    {
+        "cardName": "★ DK",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416181517131776/Untitled18_20220930223351.png"
+    } ],
+
+    "SKCS1": [
+    {
+        "cardName": "★ Seungkwan",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416206582296586/Untitled18_20220930223414.png"
+    } ],
+
+    "VNCS1": [
+    {
+        "cardName": "★ Vernon",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416206955577364/Untitled18_20220930223424.png"
+    } ],
+
+    "DNCS1": [
+    {
+        "cardName": "★ Dino",
+        "cardEra": "HIT",
+        "cardGroup": "SEVENTEEN",
+        "cardTag": "<:emoji_10:1112000273557241866>",
+        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416207387594762/Untitled18_20220930223432.png"
+    } ]
+
 }

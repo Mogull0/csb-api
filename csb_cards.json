@@ -100,8 +100,7 @@
     "cardName": "★ San",    
     "cardEra": "Guerrilla",
     "cardGroup": "ATEEZ",
-    "cardTag": "<:emoji_10:1112000273557241866>",
-    "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025394996003741746/Untitled18_20220930205519.png"
+    "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "MGGR1": [
@@ -300,8 +299,7 @@
         "cardName": "★ S.Coups",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416116417339442/Untitled18_20220930223224.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "JHHI1": [
@@ -309,8 +307,7 @@
         "cardName": "★ Jeonghan",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416116765474846/Untitled18_20220930223237.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "JOHI1": [
@@ -318,8 +315,7 @@
         "cardName": "★ Joshua",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416117239418960/Untitled18_20220930223248.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "JUHI1": [
@@ -327,8 +323,7 @@
         "cardName": "★ Jun",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416117667246142/Untitled18_20220930223257.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "HSHI1": [
@@ -336,8 +331,7 @@
         "cardName": "★ Hoshi",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416150819020971/Untitled18_20220930223306.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "WWHI1": [
@@ -345,8 +339,7 @@
         "cardName": "★ Wonwoo",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416151238443018/Untitled18_20220930223316.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "WZHI1": [
@@ -354,8 +347,7 @@
         "cardName": "★ Woozi",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416151691440168/Untitled18_20220930223325.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "T8HI1": [
@@ -363,8 +355,7 @@
         "cardName": "★ The8",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416180229480551/Untitled18_20220930223335.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
     "MGCS1": [
@@ -372,44 +363,39 @@
         "cardName": "★ Mingyu",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416180737003603/Untitled18_20220930223343.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
-    "DKCS1": [
+    "DKHI1": [
     {
         "cardName": "★ DK",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416181517131776/Untitled18_20220930223351.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
-    "SKCS1": [
+    "SKHI1": [
     {
         "cardName": "★ Seungkwan",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416206582296586/Untitled18_20220930223414.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
-    "VNCS1": [
+    "VNHI1": [
     {
         "cardName": "★ Vernon",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416206955577364/Untitled18_20220930223424.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ],
 
-    "DNCS1": [
+    "DNHI1": [
     {
         "cardName": "★ Dino",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN",
-        "cardTag": "<:emoji_10:1112000273557241866>",
-        "cardImage": "https://cdn.discordapp.com/attachments/1024920742497886238/1025416207387594762/Untitled18_20220930223432.png"
+        "cardTag": "<:emoji_10:1112000273557241866>"
     } ]
 
 }

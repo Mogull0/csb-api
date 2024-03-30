@@ -346,6 +346,45 @@
         "cardName": "★ Dino",
         "cardEra": "HIT",
         "cardGroup": "SEVENTEEN"
-    } ]
+    } ],
+"MJAT1": [
+    {
+        "cardName": "★ Minji",
+        "cardEra": "Attention",
+        "cardGroup": "NEWJEANS"
+    }
+],
+
+"HNAT1": [
+    {
+        "cardName": "★ Hanni",
+        "cardEra": "Attention",
+        "cardGroup": "NEWJEANS"
+    }
+],
+
+"DNAT1": [
+    {
+        "cardName": "★ Danielle",
+        "cardEra": "Attention",
+        "cardGroup": "NEWJEANS"
+    }
+],
+
+"HRAT1": [
+    {
+        "cardName": "★ Haerin",
+        "cardEra": "Attention",
+        "cardGroup": "NEWJEANS"
+    }
+],
+
+"HIAT1": [
+    {
+        "cardName": "★ Hyein",
+        "cardEra": "Attention",
+        "cardGroup": "NEWJEANS"
+    }
+]
 
 }
